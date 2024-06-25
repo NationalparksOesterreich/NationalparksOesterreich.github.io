@@ -1,0 +1,353 @@
+{
+    "type": "FeatureCollection",
+    "name": "Gipfel_Bedeutend",
+    "bbox": [
+        12.34532,
+        46.94267,
+        13.40069,
+        47.18806
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 174.0,
+                "F_CODE": 7302.0,
+                "F_NAME": "Berggipfel",
+                "BEDEUTUNG": "Bedeutend",
+                "NAME": "Großvenediger",
+                "VAR_NAME": null,
+                "HOEHE": 3658.0,
+                "EA_LAGE": "Photogrammetrische Auswertung",
+                "EA_HOEHE": "Landesaufnahme",
+                "ERSTELLDAT": "2014-08-20",
+                "BEARBDAT": "2022-08-18",
+                "OBJECTID": 15075.0,
+                "GLOBALID": "{5A9E24F8-4B95-441B-81ED-0441598D34E0}"
+            },
+            "bbox": [
+                12.34532,
+                47.10927,
+                12.34532,
+                47.10927
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.34532,
+                    47.10927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 203.0,
+                "F_CODE": 7302.0,
+                "F_NAME": "Berggipfel",
+                "BEDEUTUNG": "Bedeutend",
+                "NAME": "Ankogel",
+                "VAR_NAME": null,
+                "HOEHE": 3252.0,
+                "EA_LAGE": "Photogrammetrische Auswertung",
+                "EA_HOEHE": "Landesaufnahme",
+                "ERSTELLDAT": "2014-08-20",
+                "BEARBDAT": "2022-08-23",
+                "OBJECTID": 13279.0,
+                "GLOBALID": "{540CC01E-C642-4208-B779-49BB3D10575E}"
+            },
+            "bbox": [
+                13.24868,
+                47.05115,
+                13.24868,
+                47.05115
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24868,
+                    47.05115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 242.0,
+                "F_CODE": 7302.0,
+                "F_NAME": "Berggipfel",
+                "BEDEUTUNG": "Bedeutend",
+                "NAME": "Großes Wiesbachhorn",
+                "VAR_NAME": null,
+                "HOEHE": 3564.0,
+                "EA_LAGE": "Photogrammetrische Auswertung",
+                "EA_HOEHE": "Landesaufnahme",
+                "ERSTELLDAT": "2014-08-20",
+                "BEARBDAT": "2022-08-22",
+                "OBJECTID": 14344.0,
+                "GLOBALID": "{E22187F5-32A4-45A4-BA30-8416DB4E2850}"
+            },
+            "bbox": [
+                12.75497,
+                47.1567,
+                12.75497,
+                47.1567
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75497,
+                    47.1567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 258.0,
+                "F_CODE": 7302.0,
+                "F_NAME": "Berggipfel",
+                "BEDEUTUNG": "Bedeutend",
+                "NAME": "Hochschober",
+                "VAR_NAME": null,
+                "HOEHE": 3242.0,
+                "EA_LAGE": "Photogrammetrische Auswertung",
+                "EA_HOEHE": "Landesaufnahme",
+                "ERSTELLDAT": "2014-08-20",
+                "BEARBDAT": "2022-08-22",
+                "OBJECTID": 18657.0,
+                "GLOBALID": "{009FD292-8697-439A-BA8E-EA48E5C86503}"
+            },
+            "bbox": [
+                12.69822,
+                46.94267,
+                12.69822,
+                46.94267
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.69822,
+                    46.94267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 1416.0,
+                "F_CODE": 7302.0,
+                "F_NAME": "Berggipfel",
+                "BEDEUTUNG": "Bedeutend",
+                "NAME": "Lasörling",
+                "VAR_NAME": null,
+                "HOEHE": 3098.0,
+                "EA_LAGE": "Photogrammetrische Auswertung",
+                "EA_HOEHE": "Landesaufnahme",
+                "ERSTELLDAT": "2014-08-20",
+                "BEARBDAT": "2022-08-18",
+                "OBJECTID": 19806.0,
+                "GLOBALID": "{9682F84C-0966-4474-A894-6BDA532FA6B7}"
+            },
+            "bbox": [
+                12.35502,
+                46.97589,
+                12.35502,
+                46.97589
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35502,
+                    46.97589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 1421.0,
+                "F_CODE": 7302.0,
+                "F_NAME": "Berggipfel",
+                "BEDEUTUNG": "Bedeutend",
+                "NAME": "Hochalmspitze",
+                "VAR_NAME": "Hochalmer",
+                "HOEHE": 3360.0,
+                "EA_LAGE": "Photogrammetrische Auswertung",
+                "EA_HOEHE": "Landesaufnahme",
+                "ERSTELLDAT": "2014-08-20",
+                "BEARBDAT": "2022-08-23",
+                "OBJECTID": 13280.0,
+                "GLOBALID": "{F12AFB8E-6216-4080-855A-0C7ECAB85D2F}"
+            },
+            "bbox": [
+                13.32047,
+                47.0154,
+                13.32047,
+                47.0154
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32047,
+                    47.0154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 1425.0,
+                "F_CODE": 7302.0,
+                "F_NAME": "Berggipfel",
+                "BEDEUTUNG": "Bedeutend",
+                "NAME": "Hoher Sonnblick",
+                "VAR_NAME": null,
+                "HOEHE": 3106.0,
+                "EA_LAGE": "Photogrammetrische Auswertung",
+                "EA_HOEHE": "Landesaufnahme",
+                "ERSTELLDAT": "2014-08-20",
+                "BEARBDAT": "2022-08-23",
+                "OBJECTID": 12147.0,
+                "GLOBALID": "{10CCACB5-8FFD-41A6-8E3B-AF551D0F465D}"
+            },
+            "bbox": [
+                12.95753,
+                47.05407,
+                12.95753,
+                47.05407
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95753,
+                    47.05407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 1437.0,
+                "F_CODE": 7302.0,
+                "F_NAME": "Berggipfel",
+                "BEDEUTUNG": "Bedeutend",
+                "NAME": "Petzeck",
+                "VAR_NAME": null,
+                "HOEHE": 3283.0,
+                "EA_LAGE": "Photogrammetrische Auswertung",
+                "EA_HOEHE": "Landesaufnahme",
+                "ERSTELLDAT": "2014-08-20",
+                "BEARBDAT": "2022-08-22",
+                "OBJECTID": 18667.0,
+                "GLOBALID": "{A8E1410C-D36D-4880-85B9-D5ADB6233A70}"
+            },
+            "bbox": [
+                12.80405,
+                46.94824,
+                12.80405,
+                46.94824
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.80405,
+                    46.94824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 1466.0,
+                "F_CODE": 7302.0,
+                "F_NAME": "Berggipfel",
+                "BEDEUTUNG": "Bedeutend",
+                "NAME": "Großglockner",
+                "VAR_NAME": null,
+                "HOEHE": 3798.0,
+                "EA_LAGE": "Photogrammetrische Auswertung",
+                "EA_HOEHE": "Landesaufnahme",
+                "ERSTELLDAT": "2014-08-20",
+                "BEARBDAT": "2022-08-19",
+                "OBJECTID": 14342.0,
+                "GLOBALID": "{DECA3381-8F88-4E83-919F-903C7FE67925}"
+            },
+            "bbox": [
+                12.6939,
+                47.07453,
+                12.6939,
+                47.07453
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6939,
+                    47.07453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 1504.0,
+                "F_CODE": 7302.0,
+                "F_NAME": "Berggipfel",
+                "BEDEUTUNG": "Bedeutend",
+                "NAME": "Kitzsteinhorn",
+                "VAR_NAME": null,
+                "HOEHE": 3203.0,
+                "EA_LAGE": "Photogrammetrische Auswertung",
+                "EA_HOEHE": "Landesaufnahme",
+                "ERSTELLDAT": "2014-08-20",
+                "BEARBDAT": "2022-08-19",
+                "OBJECTID": 14343.0,
+                "GLOBALID": "{E35A48BF-842D-4DE4-8485-25C541C6DFB9}"
+            },
+            "bbox": [
+                12.68752,
+                47.18806,
+                12.68752,
+                47.18806
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.68752,
+                    47.18806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 1527.0,
+                "F_CODE": 7302.0,
+                "F_NAME": "Berggipfel",
+                "BEDEUTUNG": "Bedeutend",
+                "NAME": "Großer Hafner",
+                "VAR_NAME": null,
+                "HOEHE": 3076.0,
+                "EA_LAGE": "Photogrammetrische Auswertung",
+                "EA_HOEHE": "Landesaufnahme",
+                "ERSTELLDAT": "2014-08-20",
+                "BEARBDAT": "2022-08-23",
+                "OBJECTID": 12675.0,
+                "GLOBALID": "{A4840337-A1A5-4390-A28A-C9A1AA1F41FE}"
+            },
+            "bbox": [
+                13.40069,
+                47.07008,
+                13.40069,
+                47.07008
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40069,
+                    47.07008
+                ]
+            }
+        }
+    ]
+}
